@@ -8,7 +8,7 @@ Damit ihr's auch öfters verwenden könnt hier eine kleine Anleitung und ein paa
 ## Funktionsweise
 ![BierP30.drawio (2).png](https://github.com/MarciV2/BierP30/blob/main/BierP30.drawio%20(2).png?raw=true)
 
-Ausgangssituation: Das Bier befindet sich im (idealerweise vorgekühlten) Fass, CO2 in der Sodastream-Flasche.
+Das Bier befindet sich anfangs im (idealerweise vorgekühlten) Fass, CO2 in der Sodastream-Flasche.
 Prinzipiell wird das Gas (über einen Druckminderer) und den Fassanschluss (seitlicher Anschluss) in das Fass geleitet, wo es von oben auf das Bier drückt. Das Bier kann über ein Steigrohr im Fass durch den oberen Anschluss des Fassanschlusses und die Schläuche raus.
 Das Bier fließt dann durch die Schlauchspule, welche sich in Eiswasser befindet, gekühlt in die Wallbox hoch. (den Kasten mit "Peltier-Modul" bitte ignorieren, das Feature mussten wir leider weglassen) Oben in der Wallbox ist ein Servo-getriebenes Kugelventil, das durch die Steuer-Elektronik geöffnet oder geschlossen werden kann. Beim Ausschalten der Anlage bleibt das Ventil im aktuellen Zustand. Dies ist relevant, wenn ihr nicht jedes Mal eine Karte vorhalten wollt oder zum Reinigen.
 Vom Ventil fließt das Bier zum Zapfhahn. (Mehr dazu im Kapitel [Zapfen](##Zapfen))
